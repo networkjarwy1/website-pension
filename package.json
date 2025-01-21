@@ -2,7 +2,6 @@
   "name": "website-pension",
   "version": "1.0.0",
   "description": "Povinný úkol.",
-  "type": "module",
   "homepage": "https://github.com/networkjarwy1/website-pension#readme",
   "bugs": {
     "url": "https://github.com/networkjarwy1/website-pension/issues"
@@ -13,7 +12,7 @@
   },
   "license": "ISC",
   "author": "Jaroslav Vízner",
-  "type": "git",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "eleventy --serve",
