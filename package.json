@@ -16,10 +16,11 @@
   "main": "index.js",
   "scripts": {
     "start": "eleventy --serve",
-    "prebuild": "del-cli ./dist",
+    "prebuild": "rm -r ./dist",
     "build": "eleventy"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.0.0"
-  }
+  },
+  "devDependencies": {}
 }

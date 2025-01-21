@@ -6,8 +6,8 @@ export default async function (eleventyConfig) {
   
     eleventyConfig.setTemplateFormats("html,njk");
   
-    eleventyConfig.addPassthroughCopy("images");
-    eleventyConfig.addPassthroughCopy("css");
+    eleventyConfig.addPassthroughCopy("./src/images");
+    eleventyConfig.addPassthroughCopy("./src/css");
   
     return {
       //define what engines will be used for which files
