@@ -59,3 +59,6 @@ Pro oživení kódování HTML a CSS splň alespoň první z následujících ú
 
 1. Vytvořte si nový repozitář z template (tento repozitář)
 
+# Odkaz na netify
+### [Netify](https://networkjarwy1-pension.netlify.app/)
+
